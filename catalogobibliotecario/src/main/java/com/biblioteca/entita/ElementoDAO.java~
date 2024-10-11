@@ -1,0 +1,4 @@
+package com.biblioteca.entita;
+
+public class ElementoDAO {
+}
